@@ -3,7 +3,7 @@ from ttkbootstrap.constants import *
 from tkinter import messagebox
 from todolist import Todolist
 from storage import Storage
-d
+
 class TodoApp:
     
     def __init__(self, root, file_path):
