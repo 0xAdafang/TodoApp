@@ -1,5 +1,5 @@
 import ttkbootstrap as ttk
-from ttkbootstrap.constants import *
+from ttkbootstrap.constants import 
 from tkinter import messagebox
 from todolist import Todolist
 from storage import Storage
